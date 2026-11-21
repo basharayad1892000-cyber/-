@@ -1,0 +1,6 @@
+{
+  "name": "أذكاري - تطبيق الأذكار والسبحة الإلكترونية",
+  "description": "تطبيق إسلامي متكامل لأذكار الصباح والمساء، أذكار النوم، أدعية مأثورة، والسبحة الإلكترونية الذكية مع تتبع الورد اليومي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
